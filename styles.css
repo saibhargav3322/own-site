@@ -1,0 +1,108 @@
+body {
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+  line-height: 2;
+  background-color: #EAF6F6;
+}
+
+h1 {
+  padding: 50px 0 10px 0;
+  color: #66BFBF;
+  font-size: 3.62rem;
+  font-family: 'Caveat', cursive;
+}
+
+h2 {
+  line-height: 0;
+  color: #66BFBF;
+  font-family: 'Indie Flower', cursive;
+  margin: 40px auto 40px auto;
+}
+
+hr {
+  border-style: dotted none none;
+  color: #66BFBF;
+  border-width: 5px;
+  width: 20%;
+  margin: 30px auto;
+}
+a{
+  text-decoration: none;
+}
+.first {
+  background-color: #EAF6F6;
+  position: relative;
+  margin-bottom: 20px;
+  margin-top: 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 50px;
+  width: 10%;
+  top: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 50px;
+  width: 10%;
+}
+
+.mountain {
+  margin: auto;
+  width: 30%;
+}
+
+.profile {
+  width: 20%;
+  margin-bottom: 20px;
+}
+
+.first-para {
+  margin: 20px auto 50px auto;
+  width: 30%;
+  text-align: left;
+}
+.skills {
+  text-align: left;
+  margin: auto;
+  width: 40%;
+}
+
+.third {
+  margin-bottom: 50px;
+}
+
+.web {
+  width: 30%;
+  float: left;
+  margin-right: 20px;
+  margin-top: 30px;
+}
+
+.hotwings {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+.contact{
+  text-align: center;
+}
+.link{
+  background:    #00ffff;
+background:    linear-gradient(#00ffff, #1a89ef);
+border-radius: 11px;
+box-shadow:    0 1px #444444;
+padding:       20px 45px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 24px/1 "Open Sans", sans-serif;
+text-align:    center;
+text-shadow:   1px 1px #000000;
+text-decoration: none;
+}
+.last{
+  margin-top: 50px;
+  background-color: #00ffff;
+}
